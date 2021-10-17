@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	A new easy installer for windows x64 bit
+	A new easy installer for windows
 </h3>
 
 <p align="center">
