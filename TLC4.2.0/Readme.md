@@ -21,36 +21,36 @@
  Run either Private.bat or Public.bat from your desktop once you see them the install is completed. <br>
  Run the correct service mode as per below.  This is to start the server service.
  
- Private Mode: http://ip-address:9000
+ Private Mode: http://ip-address:9000 <br>
  Public Mode: http://ip-address:9001
 
- Your config will be stored in:
+ Your config will be stored in: <br>
  C:\Users\%username%\.thelounge
 
- The core code is stored in:
+ The core code is stored in: <br>
  C:\Users\%username%\thelounge
 
 
- - To create a user (from new command prompt window)-
+ - To create a user (from new command prompt window)- <br>
  A) thelounge add [username]
  
-  - To remove a user (from new command prompt window)-
+  - To remove a user (from new command prompt window)- <br>
  A) thelounge remove [username]
  
-  - To install a theme from npm (from new command prompt window)-
+  - To install a theme from npm (from new command prompt window)- <br>
  A) thelounge install [thelounge-theme-name]
  
-   - To uninstall a theme (from new command prompt window)-
+   - To uninstall a theme (from new command prompt window)- <br>
  A) thelounge uninstall [thelounge-theme-name]
 
 
- If you get stuck visit the website for further assistance:
+ If you get stuck visit the website for further assistance: <br>
  https://thelounge.chat/
 
- If you need help with connecting to libera then visit:
+ If you need help with connecting to libera then visit: <br>
  https://libera.chat/
 
- Or come into the IRC channel:
- irc.libera.chat:6697 (TLS)
+ Or come into the IRC channel: <br>
+ irc.libera.chat:6697 (TLS) <br>
  Channel: #thelounge
  
