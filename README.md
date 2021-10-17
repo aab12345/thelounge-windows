@@ -11,10 +11,11 @@
 		alt="#thelounge IRC channel on LiberaChat"
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
 </p>
-
 <p align="center">
-	<img src="Screenshots/Template_01.png" alt="Install Video Coming Soon" >
+Click the image below to view the full installer video on youtube
 </p>
+
+[![Watch the video](https://i.imgur.com/JE55msg.png)](https://www.youtube.com/watch?v=aCH89ysmFqA)
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/aab12345" target="_blank"><img src="https://lounge-group.co.uk/buy-me-a-coffee.png" alt="Buy Me A Coffee"></a>
