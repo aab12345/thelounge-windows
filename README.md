@@ -12,7 +12,8 @@
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
 </p>
 <p align="center">
-Click the image below to view the full V2 installer video on youtube.
+Click the image to view the full V2 installer video on youtube.<br>
+51.4  MB
 </p>
 
 [![Watch the video](https://i.imgur.com/JE55msg.png)](https://www.youtube.com/watch?v=RzSz-Qrj7rM)
