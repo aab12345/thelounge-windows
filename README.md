@@ -16,7 +16,7 @@ Click the image to view the full V2 installer video on youtube.<br>
 51.4  MB
 </p>
 
-[![Watch the video](https://i.imgur.com/JE55msg.png)](https://www.youtube.com/watch?v=RzSz-Qrj7rM)
+[![Watch the video](https://i.imgur.com/JE55msg.png)](https://www.youtube.com/watch?v=uMsqfjXBp0s)
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/aab12345" target="_blank"><img src="https://lounge-group.co.uk/buy-me-a-coffee.png" alt="Buy Me A Coffee"></a>
