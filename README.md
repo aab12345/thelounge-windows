@@ -24,10 +24,10 @@ Click the image to view the full V2 installer video on youtube.<br>
 
 ## Version 4.2.0 :sparkles:
 Install this app with the new installer:<br>
-Encryption Key: 03r3X8vbf6p45aMpMu24V25UxZ_bS-jfugZf7E9Ucxk
+Encryption Key: MSchheKcRYQqcSQ6NtwPYtDysZFfeUs-laX1LfF6rc8
 
 ```sh
-https://mega.nz/file/6qB1xQrR
+https://mega.nz/file/r74njAJa
 ```
 
 ## Version 4.3.0 :sparkles:
