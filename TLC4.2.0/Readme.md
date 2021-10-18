@@ -15,11 +15,15 @@
 
 
 
- After extraction has completed go to C:\TLC4.2.0\Installer > <br>
- Run each script in order from 1 to 4 (in order). (The scripts will close once completed).
+ 
+ ----------------------------------------------------------
+ The Lounge Chat 4.2.0 - Readme Further Instructions
+ ----------------------------------------------------------
 
- Run either Private.bat or Public.bat from your desktop once you see them the install is completed. <br>
- Run the correct service mode as per below.  This is to start the server service.
+ While the installer is running you can give this a read below:
+
+ Run either Private.bat or Public.bat from your desktop.
+ This is to start the lounge service.
  
  Private Mode: http://ip-address:9000 <br>
  Public Mode: http://ip-address:9001
@@ -27,22 +31,51 @@
  Your config will be stored in: <br>
  C:\Users\%username%\.thelounge
 
- The core code is stored in: <br>
+ The core compiled code is stored in: <br>
  C:\Users\%username%\thelounge
 
+ ----------------------------------------------------------
+ The Lounge Chat 4.2.0 - Adding Login Users and Themes
+ ----------------------------------------------------------
 
- - To create a user (from new command prompt window)- <br>
+ - https://www.npmjs.com/package/theme
+
+ - To create a user (open command prompt)- <br>
  A) thelounge add [username]
  
-  - To remove a user (from new command prompt window)- <br>
+  - To remove a user (open command prompt)- <br>
  A) thelounge remove [username]
  
-  - To install a theme from npm (from new command prompt window)- <br>
+  - To install a theme from npm (open command prompt)- <br>
  A) thelounge install [thelounge-theme-name]
  
-   - To uninstall a theme (from new command prompt window)- <br>
+   - To uninstall a theme (open command prompt)- <br>
  A) thelounge uninstall [thelounge-theme-name]
 
+
+ ----------------------------------------------------------
+ The Lounge Chat 4.2.0 - Uninstall Instructions
+ ----------------------------------------------------------
+
+ To uninstall all you have to do is manually delete 
+ the following files:
+
+ > C:\Users\%username%\Desktop\TLC4.2.0 (Folder) <br>
+ > C:\Users\%username%\thelounge (folder) (Source Files) <br>
+ > C:\Users\%username%\.thelounge (Config Files) <br>
+ > C:\Program Files\TLC4.2.0 (folder) (Some install files)
+
+ ----------------------------------------------------------
+ The Lounge Chat 4.2.0 - Other Commands
+ ----------------------------------------------------------
+
+ Commands: <br>
+ Node Version: node -v <br>
+ NPM Version: npm -v
+ 
+ ----------------------------------------------------------
+ The Lounge Chat 4.2.0 - Support Places
+ ----------------------------------------------------------
 
  If you get stuck visit the website for further assistance: <br>
  https://thelounge.chat/
@@ -53,4 +86,5 @@
  Or come into the IRC channel: <br>
  irc.libera.chat:6697 (TLS) <br>
  Channel: #thelounge
+ 
  
