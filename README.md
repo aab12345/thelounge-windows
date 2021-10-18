@@ -10,6 +10,9 @@
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on LiberaChat"
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
+	<a href="https://www.youtube.com/watch?v=uMsqfjXBp0s"><img
+		alt="Youtube Likes On Video"
+		src="https://img.shields.io/youtube/views/uMsqfjXBp0s?style=social"></a>
 </p>
 <p align="center">
 Click the image to view the full V2 installer video on youtube.<br>
