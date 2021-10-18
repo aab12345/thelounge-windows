@@ -5,7 +5,7 @@
 
 @ECHO OFF
 TITLE The Lounge Chat 4.2.0 Installer
-COLOR 02
+COLOR 03
 ECHO.
 ECHO  ------------------------------------
 ECHO    The Lounge 4.2.0 Full Installer
@@ -23,13 +23,14 @@ ECHO  .. Press any key on the keyboard to continue.
 ECHO  .. Or close this window to cancel.
 PAUSE > nul
 CLS
-COLOR 04
+COLOR 06
 ECHO.
 ECHO  -----------------------------------
 ECHO    The Lounge 4.2.0 Install 1 of 6
 ECHO  -----------------------------------
 ECHO.
-ECHO  Removing and Copying folders.  Please wait...
+ECHO  Removing and Copying folders.  
+ECHO  Please wait...
 ECHO.
 RD /S /Q C:\Users\%username%\thelounge >nul 2>&1
 RD /S /Q C:\Users\%username%\.thelounge >nul 2>&1
@@ -41,35 +42,38 @@ XCOPY "Readme.txt" "C:\Program Files\TLC4.2.0" /S /D >nul 2>&1
 ping 127.0.0.1 -n 6 > nul
 CLS
 ECHO.
-COLOR 02
+COLOR 03
 ECHO  -----------------------------------
 ECHO    The Lounge 4.2.0 Install 2 of 6
 ECHO  -----------------------------------
 ECHO.
-ECHO  Installing NodeJS and Yarn.  Please wait...
+ECHO  Installing NodeJS and Yarn.  
+ECHO  Please wait...
 ECHO.
 START /wait msiexec.exe /i Xnode-installer.msi /quiet /passive
 START /wait msiexec.exe /i Xyarn-installer.msi /quiet /passive
 ping 127.0.0.1 -n 6 > nul
 CLS
 ECHO.
-COLOR 04
+COLOR 06
 ECHO  -----------------------------------
 ECHO    The Lounge 4.2.0 Install 3 of 6
 ECHO  -----------------------------------
 ECHO.
-ECHO  Extracting The Lounge Source Files.  Please wait...
+ECHO  Extracting The Lounge Source Files.  
+ECHO  Please wait...
 ECHO.
 7z.exe x *.zip -oc:\Users\%username% -y > nul
 ping 127.0.0.1 -n 6 > nul
 CLS
 ECHO.
-COLOR 02
+COLOR 03
 ECHO  -----------------------------------
 ECHO    The Lounge 4.2.0 Install 4 of 6
 ECHO  -----------------------------------
 ECHO.
-ECHO  Building Package.  Please wait...
+ECHO  Building Lounge Chat 4.2.0 Package.  
+ECHO  Please wait...
 ECHO.
 ECHO  This may take a couple of minutes.
 ECHO  Please do not close this window.
@@ -90,7 +94,8 @@ ECHO  -----------------------------------
 ECHO    The Lounge 4.2.0 Install 5 of 6
 ECHO  -----------------------------------
 ECHO.
-ECHO  Copying Files to Desktop.  Please wait...
+ECHO  Copying Files to Desktop.  
+ECHO  Please wait...
 ECHO.
 MKDIR "C:\Users\%username%\Desktop\TLC4.2.0" > nul 
 XCOPY "C:\Program Files\TLC4.2.0\Private.bat" "C:\Users\%username%\Desktop\TLC4.2.0" /S /D > nul
@@ -108,9 +113,9 @@ ECHO.
 ECHO  Press any keys on the keyboard to close this window.
 ECHO.
 ECHO  Start the service first then visit:
-ECHO  Private Mode: https://localhost:9000 (with login)
-ECHO  Public Mode:  https://localhost:9001 (without login)
+ECHO  Private Mode: http://localhost:9000 (with login)
+ECHO  Public Mode:  http://localhost:9001 (without login)
 ECHO.
 ECHO  Support Person: aab12345
-ECHO  Support URL: https://lounge.chat
+ECHO  Support URL: https://github.com/aab12345/thelounge-windows
 PAUSE > nul
