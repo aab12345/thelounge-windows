@@ -10,16 +10,6 @@
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on LiberaChat"
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
-	<a href="https://www.youtube.com/watch?v=uMsqfjXBp0s"><img
-		alt="Youtube Likes On Video"
-		src="https://img.shields.io/youtube/views/uMsqfjXBp0s?style=social"></a>
-</p>
-<p align="center">
-Click the image to view the full V2 installer video on youtube.<br>
-51.4  MB
-</p>
-
-[![Watch the video](https://i.imgur.com/tEvwtoF.png)](https://www.youtube.com/watch?v=uMsqfjXBp0s)
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/aab12345" target="_blank">Buy Me A Coffee</a>
@@ -27,10 +17,9 @@ Click the image to view the full V2 installer video on youtube.<br>
 
 ## Version 4.3.0 :sparkles:
 Install this app with the new installer:<br>
-Encryption Key: Coming Soon
 
 ```sh
-Coming Soon!
+https://git.io/JitSs
 ```
 
 ## Notes
