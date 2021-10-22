@@ -32,14 +32,6 @@ Install this app with the new installer:<br>
 https://git.io/JKbew
 ```
 
-## Version 4.3.0 :sparkles:
-Install this app with the new installer:<br>
-Encryption Key: Coming Soon
-
-```sh
-Coming Soon!
-```
-
 ## Notes
 Please ensure you have uninstalled any previous versions of NodeJS, GIT and Yarn for Windows if you have them installed.
 
