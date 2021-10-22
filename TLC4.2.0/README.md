@@ -10,19 +10,9 @@
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on LiberaChat"
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
-	<a href="https://www.youtube.com/watch?v=uMsqfjXBp0s"><img
-		alt="Youtube Likes On Video"
-		src="https://img.shields.io/youtube/views/uMsqfjXBp0s?style=social"></a>
-</p>
-<p align="center">
-Click the image to view the full V2 installer video on youtube.<br>
-51.4  MB
-</p>
-
-[![Watch the video](https://i.imgur.com/tEvwtoF.png)](https://www.youtube.com/watch?v=uMsqfjXBp0s)
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/aab12345" target="_blank"><img src="https://lounge-group.co.uk/buy-me-a-coffee.png" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/aab12345" target="_blank">Buy Me A Coffee</a>
 </p>
 
 ## Version 4.2.0 :sparkles:
