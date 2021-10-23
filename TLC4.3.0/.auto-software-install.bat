@@ -32,9 +32,9 @@ ECHO.
 ECHO  Removing and Copying folders.  
 ECHO  Please wait...
 ECHO.
-RD /S /Q C:\Users\%username%\thelounge >nul 2>&1
-RD /S /Q C:\Users\%username%\.thelounge >nul 2>&1
-RD /S /Q C:\Users\%username%\node_modules >nul 2>&1
+RMDIR /S /Q C:\Users\%username%\thelounge >nul 2>&1
+RMDIR /S /Q C:\Users\%username%\.thelounge >nul 2>&1
+RMDIR /S /Q C:\Users\%username%\node_modules >nul 2>&1
 MKDIR "C:\Program Files\TLC4.3.0" >nul 2>&1
 XCOPY "Private.bat" "C:\Program Files\TLC4.3.0" /S /D >nul 2>&1
 XCOPY "Public.bat" "C:\Program Files\TLC4.3.0" /S /D >nul 2>&1
