@@ -1,6 +1,6 @@
 
  ----------------------------------------------------------
- The Lounge Chat 4.2.0 - Readme Further Instructions
+ The Lounge Chat 4.3.0 - Readme Further Instructions
  ----------------------------------------------------------
 
  While the installer is running you can give this a read below:
@@ -18,7 +18,7 @@
  C:\Users\%username%\thelounge
 
  ----------------------------------------------------------
- The Lounge Chat 4.2.0 - Adding Login Users and Themes
+ The Lounge Chat 4.3.0 - Adding Login Users and Themes
  ----------------------------------------------------------
 
  - https://www.npmjs.com/package/theme
@@ -37,19 +37,19 @@
 
 
  ----------------------------------------------------------
- The Lounge Chat 4.2.0 - Uninstall Instructions
+ The Lounge Chat 4.3.0 - Uninstall Instructions
  ----------------------------------------------------------
 
  To uninstall all you have to do is manually delete 
  the following files:
 
- > C:\Users\%username%\Desktop\TLC4.2.0 (Folder)
+ > C:\Users\%username%\Desktop\TLC4.3.0 (Folder)
  > C:\Users\%username%\thelounge (folder) (Source Files)
  > C:\Users\%username%\.thelounge (Config Files)
- > C:\Program Files\TLC4.2.0 (folder) (Some install files)
+ > C:\Program Files\TLC4.3.0 (folder) (Some install files)
 
  ----------------------------------------------------------
- The Lounge Chat 4.2.0 - Other Commands
+ The Lounge Chat 4.3.0 - Other Commands
  ----------------------------------------------------------
 
  Commands:
@@ -57,7 +57,7 @@
  NPM Version: npm -v
  
  ----------------------------------------------------------
- The Lounge Chat 4.2.0 - Support Places
+ The Lounge Chat 4.3.0 - Support Places
  ----------------------------------------------------------
 
  If you get stuck visit the website for further assistance:
