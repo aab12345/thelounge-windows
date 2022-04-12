@@ -11,15 +11,11 @@
 		alt="#thelounge IRC channel on LiberaChat"
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/aab12345" target="_blank">Buy Me A Coffee</a>
-</p>
-
 ## Version 4.2.0 :sparkles:
 Install this app with the new installer:<br>
 
 ```sh
-https://git.io/JKbew
+https://bit.ly/3xmqK59
 ```
 
 ## Notes
