@@ -22,17 +22,17 @@ Click the image to view the full V2 installer video on youtube.<br>
 
 ## Version 4.2.0 :sparkles:
 ```sh
-https://bit.ly/3xmqK59 /TLC4.2.0
+https://bit.ly/3xmqK59
 ```
 
 ## Version 4.3.0 :sparkles:
 ```sh
-https://bit.ly/3uwCEro /TLC4.3.0
+https://bit.ly/3uwCEro
 ```
 
 ## Version 4.3.1 :sparkles:
 ```sh
-https://bit.ly/3xhPcVj /TLC4.3.1
+https://bit.ly/3xhPcVj
 ```
 
 ## Notes
